@@ -1,0 +1,1962 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"fir",
+				"firstDropoff"
+			],
+			[
+				"conta",
+				"contact-email"
+			],
+			[
+				"render",
+				"renderNode"
+			],
+			[
+				"add",
+				"addToParent"
+			],
+			[
+				"for",
+				"for\tfor …"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"tex",
+				"text-decoration"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"findGu",
+				"findGuardian"
+			],
+			[
+				"stude",
+				"studentRepository"
+			],
+			[
+				"studen",
+				"studentId"
+			],
+			[
+				"emp",
+				"employee"
+			],
+			[
+				"str_re",
+				"str_replace"
+			],
+			[
+				"flus",
+				"flushRedisCache"
+			],
+			[
+				"pad",
+				"padding: "
+			],
+			[
+				"margi",
+				"margin-bottom: "
+			],
+			[
+				"edit",
+				"edit_student"
+			],
+			[
+				"Gua",
+				"Guardians"
+			],
+			[
+				"Guad",
+				"Guardian"
+			],
+			[
+				"guradia",
+				"guardian"
+			],
+			[
+				"guardian",
+				"guardianRepository"
+			],
+			[
+				"is_n",
+				"is_null"
+			],
+			[
+				"g",
+				"guardian"
+			],
+			[
+				"guard",
+				"guardianAttributes"
+			],
+			[
+				"sett",
+				"settings"
+			],
+			[
+				"jso",
+				"json_encode"
+			],
+			[
+				"permis",
+				"permissions"
+			],
+			[
+				"permiss",
+				"permissions"
+			],
+			[
+				"col",
+				"color"
+			],
+			[
+				"Theme",
+				"ThemeCollection"
+			],
+			[
+				"json",
+				"json_decode"
+			],
+			[
+				"base",
+				"base64_decode"
+			],
+			[
+				"req",
+				"request"
+			],
+			[
+				"strr",
+				"str_replace"
+			],
+			[
+				"permi",
+				"permissions"
+			],
+			[
+				"mod",
+				"modulePermissionIds"
+			],
+			[
+				"str",
+				"str_replace"
+			],
+			[
+				"cre",
+				"createPermissionIfNotExists"
+			],
+			[
+				"ch",
+				"childPermission"
+			],
+			[
+				"par",
+				"parent_id"
+			],
+			[
+				"ba",
+				"batch"
+			],
+			[
+				"getc",
+				"get_class"
+			],
+			[
+				"pu",
+				"public"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"cla",
+				"classNew"
+			],
+			[
+				"em",
+				"employee"
+			],
+			[
+				"st",
+				"studentId"
+			],
+			[
+				"empl",
+				"employeeId"
+			],
+			[
+				"stu",
+				"Student"
+			],
+			[
+				"gura",
+				"guardianRepository"
+			],
+			[
+				"func",
+				"func_get_args"
+			],
+			[
+				"clas",
+				"class"
+			],
+			[
+				"sor",
+				"sortable"
+			],
+			[
+				"join",
+				"joins"
+			],
+			[
+				"select",
+				"selects"
+			],
+			[
+				"ac",
+				"action\tAttr"
+			],
+			[
+				"f",
+				"field"
+			],
+			[
+				"rela",
+				"relatedTable"
+			],
+			[
+				"param",
+				"paramParts"
+			],
+			[
+				"Studen",
+				"Student"
+			],
+			[
+				"Emp",
+				"Employee"
+			],
+			[
+				"randome",
+				"randomElement"
+			],
+			[
+				"rando",
+				"randomElement"
+			],
+			[
+				"strto",
+				"strtoupper"
+			],
+			[
+				"cou",
+				"course"
+			],
+			[
+				"array",
+				"array_fill"
+			],
+			[
+				"emplo",
+				"employeeRepository"
+			],
+			[
+				"pth",
+				"pathinfo"
+			],
+			[
+				"b",
+				"baseUrl"
+			],
+			[
+				"ass",
+				"asset"
+			],
+			[
+				"update",
+				"UpdateStudentAccountRequest"
+			],
+			[
+				"error",
+				"errorClass"
+			],
+			[
+				"rule",
+				"ruleParts"
+			],
+			[
+				"rer",
+				"returned"
+			],
+			[
+				"proces",
+				"processItemsRules"
+			],
+			[
+				"class",
+				"className"
+			],
+			[
+				"va",
+				"validatorClass"
+			],
+			[
+				"bac",
+				"background: "
+			],
+			[
+				"marg",
+				"margin-top: "
+			],
+			[
+				"fon",
+				"font-size-adjust: "
+			],
+			[
+				"gray",
+				"gray-lighter"
+			],
+			[
+				"max",
+				"maxFiles"
+			],
+			[
+				"attr",
+				"studentAttributes"
+			],
+			[
+				"bucket",
+				"bucketName"
+			],
+			[
+				"tw",
+				"twitterService"
+			],
+			[
+				"tmp",
+				"temp"
+			],
+			[
+				"is_a",
+				"is_array"
+			],
+			[
+				"con",
+				"config"
+			],
+			[
+				"findEmp",
+				"findEmployeePosition"
+			],
+			[
+				"sub",
+				"subGroups"
+			],
+			[
+				"subgr",
+				"subGroupItem"
+			],
+			[
+				"subs",
+				"substr"
+			],
+			[
+				"main",
+				"main"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"funcg",
+				"func_get_arg"
+			],
+			[
+				"find",
+				"findOrFail"
+			],
+			[
+				"EMpl",
+				"EmployeeDepartment"
+			],
+			[
+				"Empl",
+				"EmployeeCategory"
+			],
+			[
+				"student_categor",
+				"student_category"
+			],
+			[
+				"student",
+				"student_category"
+			],
+			[
+				"coll",
+				"collection"
+			],
+			[
+				"grad",
+				"gradeIds"
+			],
+			[
+				"chid",
+				"children"
+			],
+			[
+				"pr",
+				"permission"
+			],
+			[
+				"curre",
+				"currentClassRow"
+			],
+			[
+				"batch",
+				"batch_id"
+			],
+			[
+				"bact",
+				"batchId"
+			],
+			[
+				"grade",
+				"gradeId"
+			],
+			[
+				"batc",
+				"batchId"
+			],
+			[
+				"bacth",
+				"batchId"
+			],
+			[
+				"term",
+				"termId"
+			],
+			[
+				"end",
+				"end_date"
+			],
+			[
+				"acc",
+				"access_token"
+			],
+			[
+				"rq",
+				"request"
+			],
+			[
+				"regs",
+				"registerIlluminateProviders"
+			],
+			[
+				"ins",
+				"installation-guide"
+			],
+			[
+				"stun",
+				"studentId"
+			],
+			[
+				"inl",
+				"inline"
+			],
+			[
+				"set",
+				"setTimeout"
+			],
+			[
+				"stud",
+				"studentRepository"
+			],
+			[
+				"stunder",
+				"studentRepository"
+			],
+			[
+				"sti",
+				"studentRepository"
+			],
+			[
+				"getname",
+				"getNamedRoutes"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"names",
+				"namedRoutes"
+			],
+			[
+				"name",
+				"namedRoutes"
+			],
+			[
+				"user",
+				"userRepository"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "src/app/crisis-center/crisis-detail.component.ts",
+			"settings":
+			{
+				"buffer_size": 2235,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/app/heroes/hero-detail.component.ts",
+			"settings":
+			{
+				"buffer_size": 1529,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/app/login/login-routing.module.ts",
+			"settings":
+			{
+				"buffer_size": 582,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/app/login/login.component.ts",
+			"settings":
+			{
+				"buffer_size": 1480,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/app/app.module.ts",
+			"settings":
+			{
+				"buffer_size": 1368,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/app/compose/compose-message.component.ts",
+			"settings":
+			{
+				"buffer_size": 1038,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/app/crisis-center/crisis-center-routing.module.ts",
+			"settings":
+			{
+				"buffer_size": 1308,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/app/admin/admin-routing.module.ts",
+			"settings":
+			{
+				"buffer_size": 1034,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/app/admin/admin-dashboard.component.ts",
+			"settings":
+			{
+				"buffer_size": 1169,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 104.0,
+		"last_filter": "install",
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"remote",
+				"Package Control: Remove Repository"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"remoe",
+				"Package Control: Remove Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 448.0
+	},
+	"console":
+	{
+		"height": 267.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/D/www/wolleto-app",
+		"/D/www/wolleto-app/src",
+		"/D/www/wolleto-app/src/app",
+		"/D/www/wolleto-app/src/app/crisis-center"
+	],
+	"file_history":
+	[
+		"/D/www/wolleto-app/src/app/login/login-routing.module.ts",
+		"/D/www/wolleto-app/src/app/crisis-center/crisis-detail.component.ts",
+		"/D/www/wolleto-app/src/app/crisis-center/crisis-center-routing.module.ts",
+		"/D/www/wolleto-app/src/app/app-routing.module.ts",
+		"/D/www/wolleto-app/src/app/compose/compose-message.component.ts",
+		"/D/www/wolleto-app/src/app/admin/admin-dashboard.component.ts",
+		"/D/www/wolleto-app/src/app/admin/admin-routing.module.ts",
+		"/D/www/wolleto-app/wolleto-app.sublime-project",
+		"/D/www/wolleto-app/.sublime-project",
+		"/D/www/wolleto-app/package.json",
+		"/D/www/wolleto-app/bs-config.json",
+		"/D/www/wolleto-app/src/app/selective-preloading-strategy.ts",
+		"/D/www/wolleto-app/src/app/app.module.ts",
+		"/D/www/wolleto-app/src/app/animations.ts",
+		"/C/Users/user/.homestead/Homestead.yaml",
+		"/C/Windows/System32/drivers/etc/hosts",
+		"/C/Users/user/Desktop/gulpfile.ts",
+		"/D/www/h1/ops-admin/app/Http/Controllers/MapController.php",
+		"/D/www/h1/enterprise-portal/resources/views/dash/job/pop/new_courier.php",
+		"/D/www/h1/enterprise-portal/resources/views/dash/job/new_courier_multi_step1.php",
+		"/D/www/h1/enterprise-portal/resources/assets/less/app.less",
+		"/D/www/h1/enterprise-portal/app/Entities/JobType.php",
+		"/D/www/h1/enterprise-portal/app/Entities/VehicleType.php",
+		"/D/www/h1/enterprise-portal/app/Entities/Vehicle.php",
+		"/D/www/h1/ops-admin/app/Entities/JobType.php",
+		"/D/www/h1/ops-admin/resources/views/dash/company/partials/manage_services_form.php",
+		"/D/www/h1/ops-admin/app/Entities/VehicleType.php",
+		"/D/www/h1/hire1-database/scripts/3760_INSERT_VEHICLE_TYPE_NEXT_DAY_VAN.sql",
+		"/D/www/h1/hire1-database/scripts/3690_INSERT_VEHICLE_TYPE_MULTI_PICKUP_VAN.sql",
+		"/D/www/h1/ops-admin/app/Entities/Vendor.php",
+		"/D/www/h1/enterprise-portal/app/Repositories/Eloquent/CompanyRepository.php",
+		"/D/www/h1/enterprise-portal/resources/views/dash/job/new_courier_multi_pick_step1.php",
+		"/D/www/h1/enterprise-portal/app/Http/Controllers/JobController.php",
+		"/D/www/h1/enterprise-portal/resources/views/dash/job/new_courier.php",
+		"/D/www/h1/hire1-database/scripts/3680_INSERT_COURIER_JOB_TYPE_MULTI_PICKUP.sql",
+		"/D/www/h1/enterprise-portal/resources/views/dash/job/new_courier_multi_drop_step1.php",
+		"/D/www/sp/EnrolmentTool/webpack.config.js",
+		"/D/www/sp/EnrolmentTool/.ebignore",
+		"/D/www/h1/enterprise-portal/app/Http/routes.php",
+		"/D/www/h1/enterprise-portal/resources/views/layouts/dashboard.php",
+		"/D/www/sp/EnrolmentTool/.elasticbeanstalk/config.yml",
+		"/D/www/sp/EnrolmentTool/.ebextensions/00_deploy_npm.config",
+		"/D/www/sp/EnrolmentTool/.ebextensions/00_deploy_npm.yml",
+		"/D/www/sp/EnrolmentTool/server/index.js",
+		"/D/www/sp/EnrolmentTool/.ebextensions/environment.config",
+		"/D/www/sp/EnrolmentTool/package.json",
+		"/D/www/sp/EnrolmentTool/.gitignore",
+		"/D/www/h1/ops-admin/app/Repositories/Eloquent/JobRepository.php",
+		"/D/www/h1/ops-admin/app/Http/routes.php",
+		"/D/www/sp/EnrolmentTool/server/api/token/controllers/token-controller.ts",
+		"/D/www/h1/ops-admin/resources/assets/js/location_map.js",
+		"/D/www/sp/EnrolmentTool/Dockerfile",
+		"/C/Users/user/.aws/credentials",
+		"/C/Users/user/Desktop/EnrolmentTool-webpack/server/index.js",
+		"/D/www/sp/EnrolmentTool/deploy.sh",
+		"/D/www/h1/ops-admin/app/Http/Controllers/JobController.php",
+		"/D/www/h1/ops-admin/resources/views/dash/map/driver_location.php",
+		"/D/www/h1/ops-admin/app/Http/Controllers/ReportController.php",
+		"/D/www/h1/ops-admin/app/Repositories/Eloquent/CompanyRepository.php",
+		"/D/www/h1/ops-admin/.env",
+		"/D/www/h1/realtime-data/index.js",
+		"/D/www/h1/rt/app/Console/Commands/Inspire.php",
+		"/D/www/h1/enterprise-portal/.env.example",
+		"/D/www/h1/enterprise-portal/app/Repositories/Eloquent/JobRepository.php",
+		"/D/www/h1/enterprise-portal/resources/views/dash/job/partial/job.php",
+		"/D/www/h1/enterprise-portal/app/Entities/IslandwideJobInfo.php",
+		"/D/www/h1/enterprise-portal/resources/views/emails/cancel_islandwide.php",
+		"/D/www/h1/enterprise-portal/app/Entities/CompanyCode.php",
+		"/D/www/h1/enterprise-portal/app/Entities/CompanyPayment.php",
+		"/D/www/h1/enterprise-portal/app/Entities/CreditCardPayment.php",
+		"/D/www/h1/enterprise-portal/app/Lib/Util.php",
+		"/D/www/h1/ops-admin/app/Entities/CompanyPayment.php",
+		"/D/www/h1/enterprise-portal/app/Http/Controllers/PaymentController.php",
+		"/D/www/h1/ops-admin/resources/assets/js/gmaps.js",
+		"/D/www/h1/enterprise-portal/resources/views/dash/job/pop/edit_dropoff.php",
+		"/D/www/h1/enterprise-portal/resources/assets/js/gmaps.js",
+		"/D/www/h1/ops-admin/resources/views/dash/job/pop/edit_dropoff.php",
+		"/D/www/h1/enterprise-portal/app/Exceptions/Handler.php",
+		"/D/www/h1/enterprise-portal/app/Http/Controllers/Auth/AuthController.php",
+		"/D/www/h1/ops-admin/resources/views/dash/job/show.php",
+		"/D/www/h1/enterprise-portal/app/Http/Controllers/InvoiceController.php",
+		"/D/www/h1/enterprise-portal/resources/views/dash/job/new_courier_step1.php",
+		"/D/www/h1/ops-admin/gulpfile.js",
+		"/D/www/h1/ops-admin/resources/views/dash/job/partials/courier_dropoffs.php",
+		"/D/www/h1/ops-admin/public/build/rev-manifest.json",
+		"/D/www/h1/ops-admin/package.json",
+		"/D/www/h1/enterprise-portal/resources/views/dash/job/partial/dropoff_point.php",
+		"/D/www/h1/ops-admin/resources/views/emails/undeliverable_dropoff_requester.php",
+		"/D/www/h1/ops-admin/resources/views/emails/undeliverable_dropoff_ops.php",
+		"/D/www/h1/profile-database/scripts/1380_INSERT_ADD_DROPOFF_PERMISSION.sql",
+		"/D/www/h1/profile-database/scripts/1400_ASSIGN_ADD_DROPOFF_PERMISSION_TO_SUPER_ADMIN.sql",
+		"/C/Users/user/Downloads/alert.html",
+		"/D/www/h1/ops-admin/resources/views/dash/report/home.php",
+		"/D/www/h1/ops-admin/resources/views/dash/report/transactions_with_cod_table.php",
+		"/D/www/h1/ops-admin/resources/views/dash/report/company_transactions_with_cod.php",
+		"/D/www/collejo/workbench/collejo/app/src/Modules/Subjects/Http/routes.php",
+		"/D/www/collejo/workbench/collejo/app/src/Modules/Subjects/resources/views/edit_subject_details.blade.php",
+		"/D/www/collejo/workbench/collejo/app/src/Modules/Subjects/resources/lang/en/subject.php",
+		"/D/www/collejo/workbench/collejo/app/src/Modules/Subjects/Http/Requests/CreateSubjectRequest.php",
+		"/D/www/collejo/workbench/collejo/app/src/Modules/Subjects/Http/Controllers/SubjectController.php",
+		"/D/www/collejo/workbench/collejo/app/src/Modules/Employees/Http/Controllers/EmployeeController.php",
+		"/D/www/collejo/workbench/collejo/app/src/Modules/Subjects/Providers/SubjectsModuleServiceProvider.php",
+		"/D/www/collejo/workbench/collejo/app/src/Modules/Subjects/resources/views/partials/edit_subject_tabs.blade.php",
+		"/D/www/collejo/workbench/collejo/app/src/Modules/Employees/Http/Controllers/EmployeeCategoryController.php",
+		"/D/www/collejo/tests/Employees/EmployeeDepartmentTest.php",
+		"/D/www/collejo/database/factories/RequiredModelFactory.php",
+		"/D/www/collejo/workbench/collejo/app/src/Repository/EmployeeRepository.php",
+		"/D/www/collejo/tests/Subjects/SubjectTest.php",
+		"/D/www/collejo/workbench/collejo/app/src/Providers/AppServiceProvider.php",
+		"/D/www/collejo/workbench/collejo/app/src/migrations/0_0_0_000280_create_subjects_table.php",
+		"/D/www/collejo/workbench/collejo/app/src/Models/Subject.php",
+		"/D/www/collejo/workbench/collejo/app/src/Repository/SubjectRepository.php",
+		"/D/www/brand/app/Api/Controllers/ApiController.php",
+		"/D/www/collejo/workbench/collejo/app/src/Modules/Subjects/Http/menus.php",
+		"/D/www/collejo/config/collejo.php",
+		"/D/www/collejo/workbench/collejo/app/src/Modules/Subjects/resources/views/subjects_list.blade.php",
+		"/D/www/collejo/workbench/collejo/app/src/Modules/Students/resources/lang/en/student.php",
+		"/D/www/collejo/workbench/collejo/app/src/Contracts/Repository/SubjectRepository.php",
+		"/D/www/collejo/workbench/collejo/app/src/Http/routes.php",
+		"/D/www/collejo/modules/Subjects/Http/routes.php",
+		"/D/www/collejo/modules/Subjects/Http/menus.php",
+		"/D/www/collejo/modules/Subjects/Http/Controllers/SubjectController.php",
+		"/D/www/collejo/modules/Subjects/Providers/SubjectsModuleServiceProvider.php",
+		"/D/www/collejo/workbench/collejo/app/src/Modules/ACL/Http/routes.php",
+		"/D/www/collejo/workbench/collejo/app/src/Modules/ACL/Http/Controllers/RoleController.php",
+		"/D/www/collejo/workbench/collejo/app/src/Foundation/Module/ModuleServiceProvider.php",
+		"/D/www/brand/.git/config",
+		"/D/www/collejo-cloud/.env"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+			"D:\\www\\wolleto-app\\src,*.ts",
+			"D:\\www\\wolleto-app\\src\\*.ts",
+			"D:\\www\\wolleto-app\\src",
+			"D:\\www\\h1\\enterprise-portal\\resources",
+			"D:\\www\\h1\\ops-admin\\resources",
+			"<current file>",
+			"",
+			"D:\\www\\collejo\\workbench\\collejo\\app\\src\\,-D:\\www\\collejo\\workbench\\collejo\\app\\src\\node_modules",
+			"D:\\www\\collejo\\workbench\\collejo\\app\\src,-D:\\www\\collejo\\workbench\\collejo\\app\\src\\node_modules",
+			"D:\\www\\collejo\\workbench\\collejo\\app,-D:\\www\\collejo\\workbench\\collejo\\app\\src\\node_modules",
+			"D:\\www\\collejo\\workbench\\collejo\\app",
+			"D:\\www\\collejo\\workbench\\collejo\\app\\src",
+			"D:\\www\\collejo\\workbench\\collejo\\app",
+			"D:\\www\\collejo\\workbench\\collejo\\app\\src\\modules",
+			"D:\\www\\collejo\\workbench\\collejo\\app\\src\\resources",
+			"D:\\www\\collejo\\workbench\\collejo\\app\\src\\views",
+			"D:\\www\\collejo\\workbench\\collejo\\app\\src,-D:\\www\\collejo\\workbench\\collejo\\app\\src\\node_modules",
+			"D:\\www\\collejo\\workbench",
+			"D:\\www\\collejo-dist\\tests",
+			"D:\\www\\collejo-dist,-D:\\www\\collejo-dist\\vendor,-D:\\www\\collejo-dist\\database",
+			"D:\\www\\collejo-dist",
+			"D:\\www\\collejo\\,-D:\\www\\collejo\\vendor,-D:\\www\\collejo\\workbench\\collejo\\app\\src\\node_modules,-*.map,-*.json,-*.js",
+			"D:\\www\\collejo\\,-D:\\www\\collejo\\vendor,-D:\\www\\collejo\\workbench\\collejo\\app\\src\\node_modules,-*.map,-*.json",
+			"D:\\www\\collejo\\,-D:\\www\\collejo\\vendor,-D:\\www\\collejo\\workbench\\collejo\\app\\src\\node_modules,-*.map",
+			"D:\\www\\collejo\\,-D:\\www\\collejo\\vendor,-D:\\www\\collejo\\workbench\\collejo\\app\\src\\node_modules",
+			"D:\\www\\collejo\\",
+			"D:\\www\\collejo\\workbench",
+			"D:\\www\\collejo\\workbench\\app",
+			"D:\\www\\collejo\\workbench",
+			"D:\\www\\collejo\\vendor\\laravel",
+			"D:\\www\\collejo",
+			"D:\\www\\collejo\\workbench",
+			"D:\\www\\collejo\\vendor\\laravel\\framework\\src\\Illuminate",
+			"D:\\www\\collejo\\workbench\\collejo\\core",
+			"D:\\www\\collejo\\workbench\\collejo\\app\\src\\Modules",
+			"D:\\www\\collejo\\workbench\\collejo,-D:\\www\\collejo\\workbench\\collejo\\app\\src\\node_modules",
+			"D:\\www\\collejo\\workbench\\collejo\\app\\*.php",
+			"D:\\www\\collejo\\workbench\\collejo\\app",
+			"D:\\www\\collejo\\workbench\\collejo\\app\\src\\Modules",
+			"D:\\www\\collejo\\workbench\\collejo\\app",
+			"D:\\www\\collejo\\workbench\\collejo\\app\\src\\modules",
+			"D:\\www\\collejo\\workbench",
+			"D:\\www\\collejo\\workbench\\collejo\\app\\src\\modules",
+			"D:\\www\\collejo\\vendor\\laravel\\framework\\src\\Illuminate\\Database",
+			"D:\\www\\collejo\\workbench\\collejo\\app\\src\\Repository",
+			"D:\\www\\collejo\\workbench\\collejo\\app\\src,-node_modules",
+			"D:\\www\\collejo\\workbench\\collejo\\app\\src,-D:\\www\\collejo\\workbench\\collejo\\app\\src\\node_modules",
+			"D:\\www\\collejo\\workbench\\collejo\\app\\src",
+			"D:\\www\\collejo\\workbench\\collejo\\app\\src\\app",
+			"D:\\www\\collejo\\workbench\\collejo\\app\\src",
+			"D:\\www\\collejo\\workbench\\collejo\\app\\src,-D:\\www\\collejo\\workbench\\collejo\\app\\src\\node_modules",
+			"D:\\www\\collejo\\workbench\\collejo\\app",
+			"D:\\www\\collejo\\workbench\\collejo\\",
+			"D:\\www\\collejo\\workbench\\collejo",
+			"D:\\www\\collejo\\vendor\\prettus",
+			"D:\\www\\collejo\\workbench",
+			"D:\\www\\collejo\\workbench\\collejo\\app\\modules\\Auth\\resources\\views",
+			"D:\\www\\collejo\\vendor\\silex\\silex",
+			"C:\\Users\\user\\Desktop\\New folder (2)",
+			"C:\\Users\\user\\Desktop\\Illuminate\\Support\\Facades",
+			"D:\\www\\collejo\\vendor\\laravel\\framework",
+			"D:\\www\\school",
+			"C:\\Users\\user\\Desktop\\anuradhajayathilaka.com"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"AdminModule",
+			"admin",
+			"vehicleType",
+			"VehicleTypes",
+			"vehicleTypes",
+			"CITY",
+			"city",
+			"CITY",
+			"city",
+			"CITY",
+			"City",
+			"city",
+			"DROP_OFF_CITY_ID",
+			"`",
+			"arrivalTime",
+			"`",
+			"vehicle-types",
+			"btn-default",
+			"style=\"width:20%;float:left\"",
+			"width",
+			"col-md-3 ",
+			"production",
+			"PATH",
+			"phan",
+			"location",
+			"addOrUpdateJobMarker",
+			"Jobs",
+			"jobs",
+			"Jobs",
+			"jobs",
+			":",
+			"\"",
+			"getRegularJobs",
+			"drivers",
+			"viewFilters",
+			"queu",
+			"jobRepository",
+			"$job->save();",
+			"\"",
+			"addQueuedJobMarker",
+			"findQueuedJobMarker",
+			"updateQueuedJobMarker",
+			"ji",
+			"di",
+			"driverId",
+			"deleteDriverMarker",
+			"updateQueuedJobMarker",
+			"addOrUpdateJobMarker ",
+			"driverId",
+			"findQueuedJobMarker",
+			"di",
+			"findDriverMarker",
+			"DriverMarker",
+			"addOrUpdateJobMarker",
+			"Jobs",
+			"jobs",
+			"markers",
+			"island",
+			"pickup_id",
+			"working_hours_ended",
+			"INVOICE_NUMBER",
+			"sendRegularPaymentSuccessEmail",
+			"sendIPGPaymentSuccessEmail",
+			"sendRegularPaymentSuccessEmail",
+			"recordDeposit",
+			"sendRegularPaymentSuccessEmail",
+			"isRestrictedArea",
+			"getPlaces",
+			"loadPlaces",
+			"getPlaces",
+			"getPla",
+			"getPlaces ",
+			"location_map",
+			"showHideWrap",
+			"edit-status-form",
+			"address",
+			"updateDropoffStatus",
+			"postDropOffStatus",
+			"undeli",
+			"transactions_table",
+			"company_monthly_transactions",
+			"getCompanyMonthlyTransactions",
+			"max_sessions_per_day",
+			"priority",
+			"last_name",
+			"first_name",
+			"guardian",
+			"students::",
+			"UpdateEmployeeAccountRequest",
+			"details",
+			"$guardian",
+			"guardian",
+			"students::",
+			"$guardian",
+			"students",
+			"employeeRepository",
+			"employeeGrade",
+			"EmployeeGrade",
+			"employeePosition",
+			"EmployeePosition",
+			"employeePosition",
+			"EmployeePosition",
+			"employeePosition",
+			"employeeCategory",
+			"EmployeeCategory",
+			"employeeCategory",
+			"EmployeeCategory",
+			"employeeCategory",
+			"EmployeeCategory",
+			"EmployeePosition",
+			"ClassRepository",
+			"GuardianRepository",
+			"Term",
+			"Batch::",
+			"batch",
+			"Batch",
+			"batch",
+			"Batch",
+			"classRepository",
+			"testTerm",
+			"student",
+			"create_student",
+			"$students",
+			"student.",
+			"students::",
+			"student_categories",
+			"$SubjectRepository",
+			"studentRepository"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"'Roboto', sans-serif",
+			"\"Raleway\",Helvetica, Arial",
+			"C.ready(function(){",
+			".",
+			"Collejo\\App",
+			"<i class=\"fa fa-fw fa-edit\"></i>",
+			"student.addresses.view",
+			"student.address.edit",
+			"student.address.new",
+			"auth::auth.",
+			"namespace Collejo\\Core\\Support\\Facades;\n\nuse Illuminate\\Support\\Facades\\Facade;"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 6,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "src/app/crisis-center/crisis-detail.component.ts",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2235,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1100,
+								1113
+							]
+						],
+						"settings":
+						{
+							"auto_complete": true,
+							"extensions":
+							[
+								"ts"
+							],
+							"syntax": "Packages/ArcticTypescript/theme/Typescript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 497.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "src/app/heroes/hero-detail.component.ts",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1529,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								546,
+								546
+							]
+						],
+						"settings":
+						{
+							"auto_complete": true,
+							"extensions":
+							[
+								"ts"
+							],
+							"syntax": "Packages/ArcticTypescript/theme/Typescript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "src/app/login/login-routing.module.ts",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 582,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								223,
+								223
+							]
+						],
+						"settings":
+						{
+							"auto_complete": true,
+							"extensions":
+							[
+								"ts"
+							],
+							"syntax": "Packages/ArcticTypescript/theme/Typescript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "src/app/login/login.component.ts",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1480,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								166,
+								166
+							]
+						],
+						"settings":
+						{
+							"auto_complete": true,
+							"extensions":
+							[
+								"ts"
+							],
+							"syntax": "Packages/ArcticTypescript/theme/Typescript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "src/app/app.module.ts",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 1368,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								846,
+								846
+							]
+						],
+						"settings":
+						{
+							"auto_complete": true,
+							"extensions":
+							[
+								"ts"
+							],
+							"syntax": "Packages/ArcticTypescript/theme/Typescript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "src/app/compose/compose-message.component.ts",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1038,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								157,
+								157
+							]
+						],
+						"settings":
+						{
+							"auto_complete": true,
+							"extensions":
+							[
+								"ts"
+							],
+							"syntax": "Packages/ArcticTypescript/theme/Typescript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "src/app/crisis-center/crisis-center-routing.module.ts",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1308,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								596,
+								596
+							]
+						],
+						"settings":
+						{
+							"auto_complete": true,
+							"extensions":
+							[
+								"ts"
+							],
+							"syntax": "Packages/ArcticTypescript/theme/Typescript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "src/app/admin/admin-routing.module.ts",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1034,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								430,
+								430
+							]
+						],
+						"settings":
+						{
+							"auto_complete": true,
+							"extensions":
+							[
+								"ts"
+							],
+							"syntax": "Packages/ArcticTypescript/theme/Typescript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "src/app/admin/admin-dashboard.component.ts",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1169,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								214,
+								214
+							]
+						],
+						"settings":
+						{
+							"auto_complete": true,
+							"extensions":
+							[
+								"ts"
+							],
+							"syntax": "Packages/ArcticTypescript/theme/Typescript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 22.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "wolleto-app.sublime-project",
+	"replace":
+	{
+		"height": 40.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"companyrepository",
+				"enterprise-portal\\app\\Repositories\\Eloquent\\CompanyRepository.php"
+			],
+			[
+				"cancel_islandwide",
+				"enterprise-portal\\resources\\views\\emails\\cancel_islandwide.php"
+			],
+			[
+				"companypayment",
+				"ops-admin\\app\\Entities\\CompanyPayment.php"
+			],
+			[
+				"reportcontroller",
+				"app\\Http\\Controllers\\ReportController.php"
+			],
+			[
+				"en/stu",
+				"workbench\\collejo\\app\\src\\Modules\\Students\\resources\\lang\\en\\student.php"
+			],
+			[
+				"rolecontroller",
+				"workbench\\collejo\\app\\src\\Modules\\ACL\\Http\\Controllers\\RoleController.php"
+			],
+			[
+				"collejo/app/database/eloquent/model",
+				"collejo\\workbench\\collejo\\app\\src\\Database\\Eloquent\\Model.php"
+			],
+			[
+				"registersusers",
+				"collejo-cloud\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Auth\\RegistersUsers.php"
+			],
+			[
+				"illuminate/foundation/auth/authenticatesusers",
+				"collejo-cloud\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Auth\\AuthenticatesUsers.php"
+			],
+			[
+				"illuminate/foundation/auth/registersusers",
+				"collejo\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Auth\\RegistersUsers.php"
+			],
+			[
+				"collejo.php",
+				"config\\collejo.php"
+			],
+			[
+				"variables.scss",
+				"workbench\\collejo\\app\\src\\node_modules\\bootstrap-sass\\assets\\stylesheets\\bootstrap\\_variables.scss"
+			],
+			[
+				"font-awesome/scss/font-awesome",
+				"workbench\\collejo\\app\\src\\node_modules\\font-awesome\\scss\\font-awesome.scss"
+			],
+			[
+				"asset",
+				"workbench\\collejo\\app\\src\\Foundation\\Theme\\Asset.php"
+			],
+			[
+				"workbench/collejo/app/src/resources/assets/src/sass/collejo.scss",
+				"workbench\\collejo\\app\\src\\resources\\assets\\src\\sass\\collejo.scss"
+			],
+			[
+				"theme",
+				"workbench\\collejo\\app\\src\\Foundation\\Theme\\Theme.php"
+			],
+			[
+				"themecollection",
+				"workbench\\collejo\\app\\src\\Foundation\\Theme\\ThemeCollection.php"
+			],
+			[
+				"models/influenceruser",
+				"app\\Models\\InfluencerUser.php"
+			],
+			[
+				"command",
+				"collejo-muti\\vendor\\symfony\\console\\Command\\Command.php"
+			],
+			[
+				"illuminate/foundation/application",
+				"collejo\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php"
+			],
+			[
+				"collejo/app/foundation/application",
+				"collejo\\workbench\\collejo\\app\\src\\Foundation\\Application.php"
+			],
+			[
+				"studentre",
+				"workbench\\collejo\\app\\src\\Repository\\StudentRepository.php"
+			],
+			[
+				"guardian",
+				"workbench\\collejo\\app\\src\\Repository\\GuardianRepository.php"
+			],
+			[
+				"view_guardian_addreses",
+				"workbench\\collejo\\app\\src\\Modules\\Students\\resources\\views\\view_guardian_addreses.blade.php"
+			],
+			[
+				"createaddressrequest",
+				"workbench\\collejo\\app\\src\\Modules\\Employees\\Http\\Requests\\CreateAddressRequest.php"
+			],
+			[
+				"employeerepos",
+				"workbench\\collejo\\app\\src\\Repository\\EmployeeRepository.php"
+			],
+			[
+				"employeecontr",
+				"workbench\\collejo\\app\\src\\Modules\\Employees\\Http\\Controllers\\EmployeeController.php"
+			],
+			[
+				"exceptions/handler.php",
+				"workbench\\collejo\\app\\src\\Foundation\\Exceptions\\Handler.php"
+			],
+			[
+				"studentrepos",
+				"workbench\\collejo\\app\\src\\Repository\\StudentRepository.php"
+			],
+			[
+				"employeerepo",
+				"workbench\\collejo\\app\\src\\Repository\\EmployeeRepository.php"
+			],
+			[
+				"student",
+				"workbench\\collejo\\app\\src\\Models\\Student.php"
+			],
+			[
+				"user",
+				"workbench\\collejo\\app\\src\\Models\\User.php"
+			],
+			[
+				"illuminate/contracts/auth/access/gate",
+				"vendor\\laravel\\framework\\src\\Illuminate\\Contracts\\Auth\\Access\\Gate.php"
+			],
+			[
+				"illuminate/foundation/auth/access/authorizable",
+				"vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Auth\\Access\\Authorizable.php"
+			],
+			[
+				"illuminate/support/facades/gate",
+				"vendor\\laravel\\framework\\src\\Illuminate\\Support\\Facades\\Gate.php"
+			],
+			[
+				"application",
+				"workbench\\collejo\\app\\src\\Foundation\\Application.php"
+			],
+			[
+				"illuminate/auth/authenticatable",
+				"vendor\\laravel\\framework\\src\\Illuminate\\Auth\\Authenticatable.php"
+			],
+			[
+				"collejo/app/foundation/auth/user",
+				"workbench\\collejo\\app\\src\\Foundation\\Auth\\User.php"
+			],
+			[
+				"basemode",
+				"workbench\\collejo\\app\\src\\Database\\Eloquent\\Model.php"
+			],
+			[
+				"basereo",
+				"workbench\\collejo\\app\\src\\Foundation\\Repository\\BaseRepository.php"
+			],
+			[
+				"cache",
+				"workbench\\collejo\\app\\src\\Foundation\\Repository\\CacheableResult.php"
+			],
+			[
+				"guardianrepo",
+				"workbench\\collejo\\app\\src\\Repository\\GuardianRepository.php"
+			],
+			[
+				"batchlist",
+				"workbench\\collejo\\app\\src\\Modules\\Classes\\resources\\views\\batches_list.blade.php"
+			],
+			[
+				"assignclass",
+				"workbench\\collejo\\app\\src\\Modules\\Students\\resources\\views\\modals\\assign_class.blade.php"
+			],
+			[
+				"editemployee",
+				"workbench\\collejo\\app\\src\\Modules\\Employees\\resources\\views\\edit_employee_details.blade.php"
+			],
+			[
+				"studencontr",
+				"workbench\\collejo\\app\\src\\Modules\\Students\\Http\\Controllers\\StudentController.php"
+			],
+			[
+				"employee",
+				"workbench\\collejo\\app\\src\\Models\\Employee.php"
+			],
+			[
+				"employeecri",
+				"workbench\\collejo\\app\\src\\Modules\\Employees\\Criteria\\EmployeeListCriteria.php"
+			],
+			[
+				"basecr",
+				"workbench\\collejo\\app\\src\\Foundation\\Repository\\BaseCriteria.php"
+			],
+			[
+				"baserepo",
+				"workbench\\collejo\\app\\src\\Foundation\\Repository\\BaseRepository.php"
+			],
+			[
+				"employeerepository",
+				"workbench\\collejo\\app\\src\\Repository\\EmployeeRepository.php"
+			],
+			[
+				"cacheb",
+				"workbench\\collejo\\app\\src\\Foundation\\Repository\\CacheableResult.php"
+			],
+			[
+				"predis/client",
+				"vendor\\predis\\predis\\src\\Client.php"
+			],
+			[
+				"illuminate/support/facades/cache",
+				"vendor\\laravel\\framework\\src\\Illuminate\\Support\\Facades\\Cache.php"
+			],
+			[
+				"studentcrite",
+				"workbench\\collejo\\app\\src\\Modules\\Students\\Criteria\\StudentListCriteria.php"
+			],
+			[
+				"studentci",
+				"workbench\\collejo\\app\\src\\Modules\\Students\\Criteria\\StudentListCriteria.php"
+			],
+			[
+				"table_view",
+				"workbench\\collejo\\app\\src\\resources\\views\\dash\\sections\\table_view.blade.php"
+			],
+			[
+				"table_view.blade.php",
+				"workbench\\collejo\\app\\src\\resources\\views\\dash\\sections\\table_view.blade.php"
+			],
+			[
+				"criteriadatachanged",
+				"workbench\\collejo\\app\\src\\Events\\CriteriaDataChanged.php"
+			],
+			[
+				"basecir",
+				"workbench\\collejo\\app\\src\\Foundation\\Repository\\BaseCriteria.php"
+			],
+			[
+				"studentcri",
+				"workbench\\collejo\\app\\src\\Modules\\Students\\Criteria\\StudentListCriteria.php"
+			],
+			[
+				"baserepos",
+				"workbench\\collejo\\app\\src\\Foundation\\Repository\\BaseRepository.php"
+			],
+			[
+				"cacheable",
+				"workbench\\collejo\\app\\src\\Foundation\\Repository\\CacheableResult.php"
+			],
+			[
+				"aclservi",
+				"workbench\\collejo\\app\\src\\Contracts\\Module\\ModuleServiceProvider.php"
+			],
+			[
+				"baseservice",
+				"workbench\\collejo\\app\\src\\Foundation\\Module\\ModuleServiceProvider.php"
+			],
+			[
+				"classrepository",
+				"workbench\\collejo\\app\\src\\Repository\\ClassRepository.php"
+			],
+			[
+				"basecri",
+				"workbench\\collejo\\app\\src\\Foundation\\Repository\\BaseCriteria.php"
+			],
+			[
+				"classrepo",
+				"workbench\\collejo\\app\\src\\Repository\\ClassRepository.php"
+			],
+			[
+				"role",
+				"workbench\\collejo\\app\\src\\Models\\Role.php"
+			],
+			[
+				"collejo/app/http/controllers/controller",
+				"workbench\\collejo\\app\\src\\Http\\Controllers\\Controller.php"
+			],
+			[
+				"aclrepo",
+				"workbench\\collejo\\app\\src\\Repository\\ClassRepository.php"
+			],
+			[
+				"userrepository",
+				"workbench\\collejo\\app\\src\\Repository\\UserRepository.php"
+			],
+			[
+				"studentcontrol",
+				"workbench\\collejo\\app\\src\\Modules\\Students\\Http\\Controllers\\StudentController.php"
+			],
+			[
+				"basecriteria",
+				"workbench\\collejo\\app\\src\\Foundation\\Repository\\BaseCriteria.php"
+			],
+			[
+				"employeelistcriteria",
+				"workbench\\collejo\\app\\src\\Modules\\Employees\\Criteria\\EmployeeListCriteria.php"
+			],
+			[
+				"studentcontr",
+				"workbench\\collejo\\app\\src\\Modules\\Students\\Http\\Controllers\\StudentController.php"
+			],
+			[
+				"userrepo",
+				"workbench\\collejo\\app\\src\\Repository\\UserRepository.php"
+			],
+			[
+				"employeecategory",
+				"workbench\\collejo\\app\\src\\Models\\EmployeeCategory.php"
+			],
+			[
+				"employeeategorytest",
+				"tests\\Employees\\EmployeeategoryTest.php"
+			],
+			[
+				"studentstest",
+				"tests\\Students\\StudentsTest.php"
+			],
+			[
+				"studentrepository",
+				"workbench\\collejo\\app\\src\\Repository\\StudentRepository.php"
+			],
+			[
+				"employeegrade",
+				"workbench\\collejo\\app\\src\\Models\\EmployeeGrade.php"
+			],
+			[
+				"basemodel",
+				"workbench\\collejo\\app\\src\\Database\\Eloquent\\Model.php"
+			],
+			[
+				"studentcategory",
+				"workbench\\collejo\\app\\src\\Models\\StudentCategory.php"
+			],
+			[
+				"studentreo",
+				"workbench\\collejo\\app\\src\\Repository\\StudentRepository.php"
+			],
+			[
+				"clasis",
+				"workbench\\collejo\\app\\src\\Models\\Clasis.php"
+			],
+			[
+				"gradecontroller",
+				"workbench\\collejo\\app\\src\\Modules\\Classes\\Http\\Controllers\\GradeController.php"
+			],
+			[
+				"helpers",
+				"workbench\\collejo\\app\\src\\helpers\\helpers.php"
+			],
+			[
+				"guardianrepository",
+				"workbench\\collejo\\app\\src\\Repository\\GuardianRepository.php"
+			],
+			[
+				"studentrep",
+				"workbench\\collejo\\app\\src\\Repository\\StudentRepository.php"
+			],
+			[
+				"common.php",
+				"workbench\\collejo\\app\\src\\resources\\lang\\en\\common.php"
+			],
+			[
+				"edit_student_account",
+				"workbench\\collejo\\app\\src\\Modules\\Students\\resources\\views\\edit_student_account.blade.php"
+			],
+			[
+				"view_guardians_details",
+				"workbench\\collejo\\app\\src\\Modules\\Students\\resources\\views\\view_guardians_details.blade.php"
+			],
+			[
+				"langauth",
+				"workbench\\collejo\\app\\src\\Modules\\Auth\\resources\\lang\\en\\auth.php"
+			],
+			[
+				"controller",
+				"workbench\\collejo\\app\\src\\Http\\Controllers\\Controller.php"
+			],
+			[
+				"configcolle",
+				"config\\collejo.php"
+			],
+			[
+				"authcontr",
+				"workbench\\collejo\\app\\src\\Modules\\Auth\\Http\\Controllers\\AuthController.php"
+			],
+			[
+				"applicatio",
+				"workbench\\collejo\\app\\src\\Foundation\\Application.php"
+			],
+			[
+				"authenticatesandregistersusers",
+				"vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Auth\\AuthenticatesAndRegistersUsers.php"
+			],
+			[
+				"view_student_details",
+				"workbench\\collejo\\app\\src\\Modules\\Students\\resources\\views\\view_student_details.blade.php"
+			],
+			[
+				"social",
+				"app\\Models\\SocialAccount.php"
+			],
+			[
+				"influenceruser",
+				"app\\Models\\InfluencerUser.php"
+			],
+			[
+				"pp/lib/contract/socialusercontract",
+				"app\\Lib\\Contract\\SocialUserContract.php"
+			],
+			[
+				"socialaccount",
+				"app\\Models\\SocialAccount.php"
+			],
+			[
+				"appcomponent",
+				"woletto-app\\app\\app.component.js"
+			],
+			[
+				"ngular/upgrade/bundles/upgrade.umd.js",
+				"woletto-app\\node_modules\\@angular\\upgrade\\bundles\\upgrade.umd.js"
+			],
+			[
+				"twitteruser",
+				"app\\Lib\\Social\\TwitterUser.php"
+			],
+			[
+				"uploader",
+				"config\\uploader.php"
+			],
+			[
+				"bucket",
+				"workbench\\collejo\\app\\src\\Foundation\\Media\\Bucket.php"
+			],
+			[
+				"collejo/app/foundation/media/bucket",
+				"workbench\\collejo\\app\\src\\Foundation\\Media\\Bucket.php"
+			],
+			[
+				"media",
+				"workbench\\collejo\\app\\src\\Models\\Media.php"
+			],
+			[
+				"upload",
+				"workbench\\collejo\\app\\src\\Foundation\\Media\\Uploader.php"
+			],
+			[
+				"componentcoll",
+				"workbench\\collejo\\app\\src\\Foundation\\Util\\ComponentCollection.php"
+			],
+			[
+				"classreos",
+				"workbench\\collejo\\app\\src\\Repository\\ClassRepository.php"
+			],
+			[
+				"authcontro",
+				"workbench\\collejo\\app\\src\\Modules\\Auth\\Http\\Controllers\\AuthController.php"
+			],
+			[
+				"illuminate/support/serviceprovider",
+				"vendor\\laravel\\framework\\src\\Illuminate\\Support\\ServiceProvider.php"
+			],
+			[
+				"collejo/app/foundation/module/moduleserviceprovider",
+				"workbench\\collejo\\app\\src\\Foundation\\Module\\ModuleServiceProvider.php"
+			],
+			[
+				"permission",
+				"workbench\\collejo\\app\\src\\Models\\Permission.php"
+			],
+			[
+				"themecolle",
+				"workbench\\collejo\\app\\src\\Foundation\\Theme\\ThemeCollection.php"
+			],
+			[
+				"illuminate/database/eloquent/model",
+				"vendor\\laravel\\framework\\src\\Illuminate\\Database\\Eloquent\\Model.php"
+			],
+			[
+				"collejo/app/foundation/util/componentcollection",
+				"workbench\\collejo\\app\\src\\Foundation\\Util\\ComponentCollection.php"
+			],
+			[
+				"modulcollec",
+				"workbench\\collejo\\app\\src\\Foundation\\Module\\ModuleCollection.php"
+			],
+			[
+				"menucollect",
+				"workbench\\collejo\\app\\src\\Foundation\\Theme\\MenuCollection.php"
+			],
+			[
+				"modulecolle",
+				"workbench\\collejo\\app\\src\\Foundation\\Module\\ModuleCollection.php"
+			],
+			[
+				"modulecollection",
+				"workbench\\collejo\\app\\src\\Foundation\\Module\\ModuleCollection.php"
+			],
+			[
+				"lluminate/contracts/support/arrayable",
+				"vendor\\laravel\\framework\\src\\Illuminate\\Contracts\\Support\\Arrayable.php"
+			],
+			[
+				"classesmod",
+				"workbench\\collejo\\app\\src\\Modules\\Classes\\Providers\\ClassesModuleServiceProvider.php"
+			],
+			[
+				"studentmod",
+				"workbench\\collejo\\app\\src\\Modules\\Students\\Providers\\StudentsModuleServiceProvider.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"$(error The '$(SPHINXBUILD)' command was not found. Make sure you have Sphinx installed, then set the SPHINXBUILD environment variable to point to the full path of the '$(SPHINXBUILD)' executable. Alternatively you can add the directory with the executable to your PATH. If you don't have Sphinx installed, grab it from http://sphinx-doc.org/)\nendif\n\n# Internal variables.\nPAPEROPT_a4     = -D latex_paper_size=a4\nPAPEROPT_letter = -D latex_paper_size=letter\nALLSPHINXOPTS   = -d $(BUILDDIR)/doctrees $(PAPEROPT_$(PAPER)) $(SPHINXOPTS) .\n# the i18n builder cannot share the environment and doctrees with the others\nI18NSPHINXOPTS  = $(PAPEROPT_$(PAPER)) $(SPHINXOPTS) .\n\n.PHONY: help clean html dirhtml singlehtml pickle json htmlhelp qthelp devhelp epub latex latexpdf text man changes linkcheck doctest gettext\n\nhelp:\n\t@echo \"Please use \\`make <target>' where <target> is one of\"\n\t@echo \"  html       to make standalone HTML files\"\n\t@echo \"  dirhtml    to make HTML files named index.html in directories\"\n\t@echo \"  singlehtml to make a single large HTML file\"\n\t@echo \"  pickle     to make pickle files\"\n\t@echo \"  json       to make JSON files\"\n\t@echo \"  htmlhelp   to make HTML files and a HTML help project\"\n\t@echo \"  qthelp     to make HTML files and a qthelp project\"\n\t@echo \"  devhelp    to make HTML files and a Devhelp project\"\n\t@echo \"  epub       to make an epub\"\n\t@echo \"  latex      to make LaTeX files, you can set PAPER=a4 or PAPER=letter\"\n\t@echo \"  latexpdf   to make LaTeX files and run them through pdflatex\"\n\t@echo \"  latexpdfja to make LaTeX files and run them through platex/dvipdfmx\"\n\t@echo \"  text       to make text files\"\n\t@echo \"  man        to make manual pages\"\n\t@echo \"  texinfo    to make Texinfo files\"\n\t@echo \"  info       to make Texinfo files and run them through makeinfo\"\n\t@echo \"  gettext    to make PO message catalogs\"\n\t@echo \"  changes    to make an overview of all changed/added/deprecated items\"\n\t@echo \"  xml        to make Docutils-native XML files\"\n\t@echo \"  pseudoxml  to make pseudoxml-XML files for display purposes\"\n\t@echo \"  linkcheck  to check all external links for integrity\"\n\t@echo \"  doctest    to run all doctests embedded in the documentation (if enabled)\"\n\nclean:"
+			]
+		],
+		"width": 863.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 268.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

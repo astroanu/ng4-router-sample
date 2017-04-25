@@ -1,0 +1,7 @@
+{
+    "folders": [{
+        "path": ".",
+        "folder_exclude_patterns": [".git", "._d", "node_modules", ".settings"],
+        "file_exclude_patterns": ["*.map", "*.js", ".project"]
+    }]
+}
